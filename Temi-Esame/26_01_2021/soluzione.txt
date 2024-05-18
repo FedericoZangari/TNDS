@@ -1,0 +1,39 @@
+valore dell'integrale (trapezi): 1.238
+
+valore dell'integrale (trapezi): 1.238
+
+Numero di punti per ottenere la precisione di 0.005: 16
+
+valore dell'integrale (Simpson): 1.237404
+Stima errore commeso (Simpson): 0.000006
+
+valore dell'integrale (media): 1.236906
+Stima errore commeso (media): 0.095437
+Numero di punti per ottenere la precisione di 0.005 con il metodo della media: 5829
+
+Errors table MC-Average
+Nstep 	Error
+5829        0.0394
+5329        0.0394
+4829        0.0394
+4329        0.0395
+3829        0.0395
+3329        0.0396
+2829        0.0398
+2329        0.0399
+1829        0.0402
+1329        0.0405
+valore dell'integrale (sampling): 1.346385
+Stima errore commeso (media): 0.140437
+Errors table MC-sampling
+Nstep 		Error
+5829           0.0431
+5329           0.0432
+4829           0.0433
+4329           0.0434
+3829           0.0435
+3329           0.0436
+2829           0.0438
+2329           0.0441
+1829           0.0445
+1329           0.0453

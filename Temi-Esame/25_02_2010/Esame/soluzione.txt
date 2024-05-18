@@ -1,0 +1,2 @@
+Temperatura dopo t=600s : 294.79K
+Temperatura dopo t=600s (calorimetro reale): 9.67K

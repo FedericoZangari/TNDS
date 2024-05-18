@@ -1,0 +1,38 @@
+Valore dell'integrale con metodo Midpoint: 1.376098924019
+
+Errors table Midpoint
+Nstep 		Error
+2              0.227722154036
+4              0.058116025071
+8              0.014599572602
+16             0.003654256975
+32             0.000913836277
+64             0.000228476060
+128            0.000057120077
+256            0.000014280086
+512            0.000003570026
+1024           0.000000892507
+Ordine di convergenza del metodo Midpoint: 
+k1:	0.344
+k2:	2.000
+
+Valore dell'integrale con metodo Midright: 1.716923354285
+
+Errors table Midright
+Nstep 		Error
+2              2.024675491605
+4              0.898476668784
+8              0.420180321857
+16             0.202790374628
+32             0.099568058826
+64             0.049327111275
+128            0.024549317607
+256            0.012246098765
+512            0.006115909340
+1024           0.003056169657
+Ordine di convergenza del metodo Midright: 
+k1:	2.056
+k2:	1.012
+Errore metodo della media: 0.416
+Punti necessari per ottenere con il metodo della media la stessa precisione che si ottiene con il metodo midpoint a 16 punti: 
+207473
